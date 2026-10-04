@@ -1,4 +1,6 @@
+local function fn36()
 local tbl18 = {}
+
 
 																																																																																								for k, v117 in v115.HitboxClassOptions, nil, nil do
 																																																																																									local tbl19 = {}
